@@ -1,0 +1,45 @@
+.condition_area {
+    background-color: PeachPuff;
+
+    h2 {
+        color: red;
+        text-decoration: underline;
+    }
+    
+    fieldset {
+        border-color: deeppink;
+        border-style: solid;
+    }
+    
+    input {
+        width: 40px;
+    }
+}
+
+legend {
+    font: {
+        weight: bold;
+    }
+}
+
+.result_area {
+    background-color: LightCyan;
+
+    h2 {
+        color: blue;
+        text-decoration: underline;
+    }
+}
+
+p {
+    font: {
+        weight: bold;
+    }
+    
+    span {
+        font: {
+            weight: normal;
+        }
+    }
+}
+

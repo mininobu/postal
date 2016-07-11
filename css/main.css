@@ -1,0 +1,26 @@
+.condition_area {
+  background-color: PeachPuff; }
+  .condition_area h2 {
+    color: red;
+    text-decoration: underline; }
+  .condition_area fieldset {
+    border-color: deeppink;
+    border-style: solid; }
+  .condition_area input {
+    width: 40px; }
+
+legend {
+  font-weight: bold; }
+
+.result_area {
+  background-color: LightCyan; }
+  .result_area h2 {
+    color: blue;
+    text-decoration: underline; }
+
+p {
+  font-weight: bold; }
+  p span {
+    font-weight: normal; }
+
+/*# sourceMappingURL=main.css.map */
